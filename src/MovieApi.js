@@ -51,7 +51,7 @@ export const searchMovie = async (value, page) => {
       },
       headers: {
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmMDkwMTYyZTU2ZjkyYWM0NjZmMzRlN2JkMjNlODRjZSIsInN1YiI6IjY1ZWIzNTU5NzJjMTNlMDE4NWM3ZDc1MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.5YfPNqMwLTEY2wmX-iUO4t19KkSUeBrW0YaGogaaTyQ",
+          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiMjI1ZWIxNjE4NzgwNDNkMjNlMjY3Y2VkM2ViZjBhMSIsIm5iZiI6MTcyMDk3OTk1Ni43Mjc5NDksInN1YiI6IjY2OTQxMDgxYTIwNTc5YjUyMGE3YmVmZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Ke6OCE6oHdR6zLSlBoIagaEcYoYhIudQo9WIFGXIHac",
         accept: "application/json",
       },
     }
